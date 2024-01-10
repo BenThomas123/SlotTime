@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SlotTime</label>
+	</settings>
+	<users>
+		<user>
+			<path>SlotTime.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SlotTime.jcp</path>
+		</project>
+	</projects>
+</workspace>
